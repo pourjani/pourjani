@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Mahrou</h1>
 <h3 align="center">Code, art, chaos – repeat.</h3>
 <img align="right" alt="Mahrou Pourjani" width = "400" src ="https://miro.medium.com/v2/resize:fit:1400/1*5OSbGu-5Z98IT8r76UJZbw.gif">
-- 🌱 I’m currently learning **OpenCV,Matlab**
+
 
 - 🎨 You can see my artworks on [CryptocityNFT](https://cryptocities.world/artists/mahrou/)
 
