@@ -10,9 +10,9 @@
 
 - 🎨 You can see my artworks on [CryptocityNFT](https://cryptocities.world/artists/mahrou/)
 
-- 👨‍💻 All of my art projects are available at [https://www.instagram.com/mahrou.p](https://www.instagram.com/mahrou.p)
+- 🖼 All of my art projects are available at [https://www.instagram.com/mahrou.p](https://www.instagram.com/mahrou.p)
 
-- 💬 Ask me about **Unity engine, Blender, Magicavoxel😍**
+- 👩🏻‍💻 Ask me about **Unity engine, Blender, Magicavoxel😍**
 
 - 📫 How to reach me **mah.pourjani@gmail.com**
 
