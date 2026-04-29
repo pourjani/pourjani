@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello 👋, I'm Mahrou</h1>
-<h3 align="center">Turning pixels into meaning.</h3>
+<h3 align="center">Turning pixels into meaning.</h2>
 <img align="right" alt="Mahrou Pourjani" width = "400" src ="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
 
@@ -12,7 +12,7 @@
 
 - 🖼 All of my art projects are available at [https://www.instagram.com/mahrou.p](https://www.instagram.com/mahrou.p)
 
-- 👩🏻‍💻 Ask me about **Unity engine, Blender, Magicavoxel😍**
+- 👩🏻‍💻 Ask me about **Figma, Adobe XD, Magicavoxel😍**
 
 - 📫 How to reach me **mah.pourjani@gmail.com**
 
