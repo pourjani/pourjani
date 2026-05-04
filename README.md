@@ -12,7 +12,7 @@
 
 - 🖼 All of my art projects are available at [https://www.instagram.com/mahrou.p](https://www.instagram.com/mahrou.p)
 
-- 👩🏻‍💻 Ask me about **Figma, Adobe XD, Magicavoxel😍**
+- 👩🏻‍💻 Ask me about **Figma, Adobe XD, Magicavoxel, Computer vision😍**
 
 - 📫 How to reach me **mah.pourjani@gmail.com**
 
