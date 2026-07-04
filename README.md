@@ -27,14 +27,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Blender -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
+<p align="left"> 
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <!-- Adobe XD -->
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobexd" width="40" height="40"/> 
+  </a>
+  <!-- Blender -->
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
